@@ -10,7 +10,7 @@ This example showcases Next.js's [Static Generation](https://nextjs.org/docs/bas
 
 Using the Deploy Button below, you'll deploy the Next.js project as well as connect it to your Contentful space and Netlify. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-netlify-starter&utm_source=github&utm_medium=nextstarter-cs&utm_campaign=devex-cs)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/vercel/next.js/tree/canary/examples/cms-contentful)
 
 
 ## How to use
